@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: cnpltdncsln.github.io
+Token: 694d55c33ac94e3163312b28bee4bb86610bb04874ac948623aa3dc9c0370cd2
